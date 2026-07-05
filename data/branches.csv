@@ -1,0 +1,11 @@
+branch_id,branch_name,city,country,region
+B001,Helsinki Central,Helsinki,Finland,Uusimaa
+B002,Espoo Tapiola,Espoo,Finland,Uusimaa
+B003,Tampere City,Tampere,Finland,Pirkanmaa
+B004,Oulu Centre,Oulu,Finland,North Ostrobothnia
+B005,Turku Market,Turku,Finland,Southwest Finland
+B006,Jyväskylä Centre,Jyväskylä,Finland,Central Finland
+B007,Vaasa Coast,Vaasa,Finland,Ostrobothnia
+B008,Kuopio City,Kuopio,Finland,North Savo
+B009,Stockholm Nordic,Stockholm,Sweden,Stockholm County
+B010,Tallinn Baltic,Tallinn,Estonia,Harju County
